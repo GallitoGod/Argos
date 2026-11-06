@@ -1,6 +1,6 @@
 # Argos — 
 En la mitología griega, Argos Panoptes era el centinela de los cien ojos, capaz de observar en todas las direcciones sin dormir jamás.
-En MLOps, un modelo entrenado es un cerebro sin ojos: sabe procesar patrones complejos, pero no puede ver el mundo ni mostrar lo que encuentra por sí solo. Argos es la capa de visión y telemetría que le da ojos a cualquier arquitectura neuronal. Desacopla la captura de video, la inferencia en ONNX Runtime y el profiling de métricas en tiempo real, permitiendo conectar, intercambiar y auditar distintos "cerebros" de visión por computadora bajo una única interfaz incansable.
+En MLOps, un modelo entrenado es un cerebro sin ojos: sabe procesar patrones complejos, pero no puede ver el mundo ni mostrar lo que encuentra por sí solo. Argos es la capa de visión y telemetría que le da ojos a cualquier arquitectura neuronal. Desacopla la captura de video, la inferencia y el profiling de métricas en tiempo real, permitiendo conectar, intercambiar y auditar distintos "cerebros" de visión por computadora bajo una única interfaz incansable.
 
 ---
 
